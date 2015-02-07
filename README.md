@@ -12,4 +12,4 @@ Let's get started!
 <li><a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-4.ipynb'>CT-4</a>:Making Multi-Color Hubble Images</li>
 <li><a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-5.ipynb'>CT-5</a>:Getting Data</li>
 <li><a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-6.ipynb'>CT-6</a>:Analyzing Data</li>
-</ul
+</ul>
