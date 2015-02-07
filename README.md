@@ -5,9 +5,9 @@ Please don't hesitate to ask questions. You have a ton of resources and support 
 
 Let's get started!
 
-    <a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-1.ipynb'>CT-1</a>: Getting Set Up
-    <a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-1.ipynb'>CT-2</a>:FUNdamentals & Displaying an Astronomical Image
-    <a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-3.ipynb'>CT-3</a>:Making Plots
-    <a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-4.ipynb'>CT-4</a>:Making Multi-Color Hubble Images
-    <a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-5.ipynb'>CT-5</a>:Getting Data
-    <a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-6.ipynb'>CT-6</a>:Analyzing Data
+<a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-1.ipynb'>CT-1</a>: Getting Set Up
+<a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-1.ipynb'>CT-2</a>:FUNdamentals & Displaying an Astronomical Image
+<a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-3.ipynb'>CT-3</a>:Making Plots
+<a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-4.ipynb'>CT-4</a>:Making Multi-Color Hubble Images
+<a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-5.ipynb'>CT-5</a>:Getting Data
+<a href='http://nbviewer.ipython.org/github/marksubbarao/REUpython/blob/master/CT-6.ipynb'>CT-6</a>:Analyzing Data
